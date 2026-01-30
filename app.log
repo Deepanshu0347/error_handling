@@ -1,0 +1,12 @@
+2026-01-30 17:34:15,130 - ERROR - Division by zero error
+Traceback (most recent call last):
+  File "c:\Users\kumar\Desktop\INTERNSHIP\task 9\error_handling.py", line 12, in divide_numbers
+    result = a / b
+             ~~^~~
+ZeroDivisionError: division by zero
+2026-01-30 17:34:15,155 - ERROR - Invalid data type
+Traceback (most recent call last):
+  File "c:\Users\kumar\Desktop\INTERNSHIP\task 9\error_handling.py", line 12, in divide_numbers
+    result = a / b
+             ~~^~~
+TypeError: unsupported operand type(s) for /: 'int' and 'str'
